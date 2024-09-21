@@ -1,5 +1,5 @@
-- 👋 Hello! I'm Nick Askew, a self-taught programming enthusiast!
-- 👀 I'm persuing an education in tools used for data studies.  Data is my passion.  It's in our nature to search for truths, I can think of no more straightforward approach than studying data.
+- 👋 Hello! I'm Nick Askew, a self-taught programming enthusiast and professional data analyst!
+- 👀 I'm actively persuing an education in tools used for data analysis and automation.  Data is my passion.
 - 🌱 My studies have me bouncing around udemy, including courses on SQL, Python and the Pandas library.
 - 💞️ I’m looking to collaborate on ... "Yes!"
 - 📫 Discord: moogoat_23970
